@@ -1,0 +1,100 @@
+City,Month,Age,female,male,Users
+Auckland,October,18-24,10828,10284,21112
+Auckland,October,25-34,25069,25170,50239
+Auckland,October,35-44,21890,21158,43048
+Auckland,October,45-54,27314,26771,54085
+Auckland,October,55-64,28988,26419,55407
+Auckland,October,65+,30166,24568,54734
+Auckland,November,18-24,10560,9777,20337
+Auckland,November,25-34,24934,27144,52078
+Auckland,November,35-44,22152,22736,44888
+Auckland,November,45-54,27670,26656,54326
+Auckland,November,55-64,27953,26947,54900
+Auckland,November,65+,27586,22933,50519
+Auckland,December,18-24,8985,9096,18081
+Auckland,December,25-34,21238,24013,45251
+Auckland,December,35-44,18796,19441,38237
+Auckland,December,45-54,22506,23053,45559
+Auckland,December,55-64,24841,24447,49288
+Auckland,December,65+,22790,20434,43224
+Christchurch,October,18-24,4755,4852,9607
+Christchurch,October,25-34,11478,11969,23447
+Christchurch,October,35-44,10588,9948,20536
+Christchurch,October,45-54,13973,12380,26353
+Christchurch,October,55-64,15310,12832,28142
+Christchurch,October,65+,16791,11821,28612
+Christchurch,November,18-24,4711,4713,9424
+Christchurch,November,25-34,11387,12247,23634
+Christchurch,November,35-44,10220,10404,20624
+Christchurch,November,45-54,13740,12299,26039
+Christchurch,November,55-64,14446,13343,27789
+Christchurch,November,65+,15383,11365,26748
+Christchurch,December,18-24,4466,4663,9129
+Christchurch,December,25-34,10930,12529,23459
+Christchurch,December,35-44,10445,10014,20459
+Christchurch,December,45-54,12751,12301,25052
+Christchurch,December,55-64,15336,13759,29095
+Christchurch,December,65+,15119,11584,26703
+Dunedin,October,45-54,536,0,536
+Dunedin,October,55-64,1071,0,1071
+Dunedin,October,65+,2439,84,2523
+Dunedin,November,55-64,601,83,684
+Dunedin,November,65+,1730,257,1987
+Dunedin,December,55-64,176,0,176
+Dunedin,December,65+,1081,0,1081
+Hamilton,October,25-34,3084,3347,6431
+Hamilton,October,35-44,1707,1610,3317
+Hamilton,October,45-54,3123,2863,5986
+Hamilton,October,55-64,3547,2808,6355
+Hamilton,October,65+,3633,2131,5764
+Hamilton,November,25-34,3221,3204,6425
+Hamilton,November,35-44,2189,1821,4010
+Hamilton,November,45-54,2992,2851,5843
+Hamilton,November,55-64,3145,2854,5999
+Hamilton,November,65+,3502,2441,5943
+Hamilton,December,25-34,2424,3356,5780
+Hamilton,December,35-44,1656,1974,3630
+Hamilton,December,45-54,2860,2624,5484
+Hamilton,December,55-64,3257,2705,5962
+Hamilton,December,65+,3188,1731,4919
+New Plymouth,October,55-64,596,0,596
+Palmerston North,October,45-54,84,0,84
+Palmerston North,October,55-64,430,0,430
+Palmerston North,October,65+,806,0,806
+Palmerston North,November,45-54,174,0,174
+Palmerston North,November,55-64,95,89,184
+Palmerston North,November,65+,649,0,649
+Palmerston North,December,45-54,85,0,85
+Palmerston North,December,55-64,357,0,357
+Palmerston North,December,65+,683,0,683
+Tauranga,October,25-34,170,0,170
+Tauranga,October,45-54,1271,0,1271
+Tauranga,October,55-64,1480,614,2094
+Tauranga,October,65+,3758,2463,6221
+Tauranga,November,25-34,83,176,259
+Tauranga,November,35-44,84,0,84
+Tauranga,November,45-54,1642,889,2531
+Tauranga,November,55-64,953,1189,2142
+Tauranga,November,65+,3402,1833,5235
+Tauranga,December,35-44,85,0,85
+Tauranga,December,45-54,171,0,171
+Tauranga,December,55-64,1442,1137,2579
+Tauranga,December,65+,1093,1399,2492
+Wellington,October,18-24,3173,3417,6590
+Wellington,October,25-34,8691,9570,18261
+Wellington,October,35-44,7434,7443,14877
+Wellington,October,45-54,10547,9844,20391
+Wellington,October,55-64,10744,9534,20278
+Wellington,October,65+,12567,8145,20712
+Wellington,November,18-24,2835,3489,6324
+Wellington,November,25-34,8364,9177,17541
+Wellington,November,35-44,6916,7452,14368
+Wellington,November,45-54,9768,9517,19285
+Wellington,November,55-64,10136,9394,19530
+Wellington,November,65+,10389,7447,17836
+Wellington,December,18-24,2274,2784,5058
+Wellington,December,25-34,7077,8287,15364
+Wellington,December,35-44,6458,6715,13173
+Wellington,December,45-54,8207,8384,16591
+Wellington,December,55-64,9201,8515,17716
+Wellington,December,65+,8921,6800,15721
