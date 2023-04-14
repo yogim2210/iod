@@ -1,0 +1,4 @@
+Age,Gender,Users,New Users,Sessions,Bounce Rate,Pages / Session,Avg. Session Duration,Transactions,Revenue,Ecommerce Conversion Rate
+18-24,female,"1,96,957","1,09,269","6,77,168",66.52%,2.08,00:02:28,"1,199","NZ$882,717.05",0.18%
+35-44,male,"3,21,190","1,75,314","13,25,544",68.22%,1.92,00:02:29,"1,538","NZ$950,759.12",0.12%
+65+,female,"4,62,771","2,25,727","22,02,544",67.26%,1.88,00:02:27,"1,575","NZ$828,088.90",0.07%
